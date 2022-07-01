@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Sou iniciante na programação e sempre disposto a aprender cada vez mais. Em busca de me tornar um DevJr!!
+  ### Sou Estudante do curso devquest Front-End com mentoria, em transição de carreira para programação, apaixonado em aprender essas tecnologias todos os dias.
  
 <div> 
   
