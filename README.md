@@ -12,7 +12,7 @@
  
  <br>
  
-  ### Sou Estudante do curso devquest Front-End com mentoria, em transição de carreira para programação, apaixonado em aprender essas tecnologias todos os dias.
+  ### Sou Estudante de programação Front-End (por enquanto), em transição de carreira, Adquirindo minha bagagem de conhecimento dia após dia. 🚀🚀
  
 <div> 
   
