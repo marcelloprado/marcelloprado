@@ -3,10 +3,11 @@
 ![Marcello GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight)
 
+![Snake animation](https://github.com/marcelloPrado/marcelloPrado/blob/output/github-contribution-grid-snake.svg)      
 
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cellezza/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-prado-7088ab128/)
-![Snake animation](https://github.com/marcelloprado/marcelloprado/blob/output/github-contribution-grid-snake.svg)      
+<!-- [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cellezza/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-prado-7088ab128/) -->
+
 
 #### Tecnologias que eu uso
 <div style="display: inline_block">
