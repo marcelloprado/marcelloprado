@@ -6,6 +6,7 @@
 
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cellezza/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcello-prado-7088ab128/)
+![Snake animation](https://github.com/marcelloprado/marcelloprado/blob/output/github-contribution-grid-snake.svg)      
 
 #### Tecnologias que eu uso
 <div style="display: inline_block">
@@ -18,7 +19,6 @@
     <div style="display: inline_block"><br>
       <img align="left" height="250" alt="coding-time" src="code.gif">
     </div>
-    ![Snake animation](https://github.com/marcelloprado/marcelloprado/blob/output/github-contribution-grid-snake.svg)      
  
             
           
