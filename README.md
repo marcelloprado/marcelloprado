@@ -1,4 +1,4 @@
-<img align="right" height="200" alt="coding-time" src="code.gif">
+<img align="right" height="250" alt="coding-time" src="code.gif">
 
 <div align="center">
 <h2>Olá, É bom ter você por aqui;<br> Eu sou o Marcello Prado🖖</h2>
@@ -18,8 +18,10 @@
  * 🚀 Futuramente pretendo partir para o back-end também 🙏
    <br>
 ---
-![Marcello GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight)
+<div align = "center">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight" />
+</div>
 
 <div align="center" style="display: inline_block">
   <h4>Tecnologias que eu uso</h4>
@@ -28,11 +30,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-  </div>
-  <div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelloprado}/count.svg" /></p> 
-    <br>
+     <div>
+       <p><b>Visitors Count</b></p>  
+       <p><img src="https://profile-counter.glitch.me/{marcelloprado}/count.svg" /></p> 
+     </div>
   </div>
  
 ![Snake animation](https://github.com/marcelloprado/marcelloprado/blob/output/github-contribution-grid-snake.svg)  
