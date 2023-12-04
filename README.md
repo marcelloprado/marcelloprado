@@ -1,5 +1,4 @@
 ## Olá, eu sou o Marcello Prado 🖖 
-### Desenvovedor Web e estou em busca ... 🚀🚀<br/>
 
 ![Marcello GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado)
