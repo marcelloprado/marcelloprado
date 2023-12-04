@@ -18,8 +18,8 @@
     <div style="display: inline_block"><br>
       <img align="left" height="250" alt="coding-time" src="code.gif">
     </div>
- 
     ![Snake animation](https://github.com/marcelloprado/marcelloprado/blob/output/github-contribution-grid-snake.svg)      
+ 
             
           
  
