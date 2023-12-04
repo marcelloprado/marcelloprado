@@ -19,8 +19,8 @@
    <br>
 ---
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight" />
+<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center" style="display: inline_block">
