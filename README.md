@@ -1,4 +1,4 @@
-## Olá, eu sou o Marcello Prado 🖖 
+## Olá, eu sou o Marcello Prado🖖 
 </br>
 
 ![Marcello GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight)
@@ -25,7 +25,7 @@
   </div>
 </div>
    <div style="display: inline_block"><br>
-      <img align="left" height="250" alt="coding-time" src="code.gif">
+      <img align="left" height="200" alt="coding-time" src="code.gif">
     <div align="center">
       <br><p align="centre"><b>Visitors Count</b></p>  
       <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marcelloprado}/count.svg" /></p> 
