@@ -14,7 +14,7 @@
  * 👉 DevQuest - Front-End concluído
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
- * 👉 Alura - Vamos com react e TypeScript inicio no final de 2023
+ * 👉 Alura - Vamos com react e TypeScript iniciando no final de 2023
  * 🚀 Futuramente pretendo partir para o back-end também 🙏
    <br>
 ---
