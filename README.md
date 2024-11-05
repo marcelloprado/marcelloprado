@@ -15,7 +15,7 @@
  * 👉 DevQuest - Front-End concluído
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
- * 👉 Alura - iniciado no final de 2023
+ * 👉 Alura - Término no final 2024
  * 🚀 Futuramente pretendo partir para o back-end também 🙏
    <br>
 ---
