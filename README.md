@@ -1,6 +1,6 @@
 <img align="right" height="250" alt="coding-time" src="code.gif">
 
-<div align="center">
+<div align="left">
 <h2>Olá, É bom ter você por aqui;<br> Eu sou o Marcello Prado🖖</h2>
 
    <h4>🌐Vamos nos conectar 🌎</h4>
@@ -12,12 +12,13 @@
 
  #### Cursos
  * 👉 Hashtag - Back-End Python ( em andamento )
- * 👉 DevQuest - Front-End concluído
+ * 👉 Alura - Término no final 2024
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
- * 👉 Alura - Término no final 2024
+ * 👉 DevQuest - Front-End concluído
  <br>
 ---
+
 <div align = "center">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
 <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight" />
