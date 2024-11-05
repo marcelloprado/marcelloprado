@@ -16,8 +16,7 @@
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
  * 👉 Alura - Término no final 2024
- * 🚀 Futuramente pretendo partir para o back-end também 🙏
-   <br>
+ <br>
 ---
 <div align = "center">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
