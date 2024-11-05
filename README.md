@@ -11,6 +11,7 @@
  </div>
 
  #### Cursos
+ * 👉 Hashtag - Back-End Python ( em andamento )
  * 👉 DevQuest - Front-End concluído
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
