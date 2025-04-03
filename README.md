@@ -11,7 +11,8 @@
  </div>
 
  #### Cursos
- * 👉 Hashtag - Back-End Python ( em andamento )
+ * 👉 Entra-21 - Python ( em andamento )
+ * 👉 Hashtag -  Python desenvolvimento web full-stack ( em andamento )
  * 👉 Alura - Término no final 2024
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
