@@ -17,7 +17,7 @@
  * 👉 B7Web - concluído e usado para pesquisas
  * 👉 Udemy - React concluído
  * 👉 DevQuest - Front-End concluído
- * 😂😂😂😂
+
  <br>
 ---
 
