@@ -18,14 +18,6 @@
  * 👉 Udemy - React concluído
  * 👉 DevQuest - Front-End concluído
 
- <br>
----
-
-<div align = "center">
-<img height = "150em" src="https://github-readme-stats.vercel.app/api?username=marcelloprado&theme=tokyonight"/>
-<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloprado&layout=compact&theme=tokyonight" />
-</div>
-
 <div align="center" style="display: inline_block">
   <h4><b>Tecnologias que eu uso</b></h4>
 </br>
@@ -35,8 +27,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-     
-  </div>
+</div>
  
 
 
