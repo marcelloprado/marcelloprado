@@ -11,12 +11,12 @@
  </div>
 
  #### Cursos
- * 👉 Entra-21 - Python (concluído 09/2025)
- * 👉 Hashtag -  Python desenvolvimento web full-stack (Término em Junho 2025)
- * 👉 Alura - Término no final 2024
- * 👉 B7Web - concluído e usado para pesquisas
+ * 👉 Hashtag -  Python desenvolvimento web full-stack (Concluído em julho 2026)
+ * 👉 Alura - FrontEnd - Concluído 2024
+ * 👉 B7Web - Usado para pesquisas (Plano Vitalício)
  * 👉 Udemy - React concluído
  * 👉 DevQuest - Front-End concluído
+ * 👉 Entra-21 - Python BackEnd (concluído 09/2025)
 
 <div align="center" style="display: inline_block">
   <h4><b>Tecnologias que eu uso</b></h4>
